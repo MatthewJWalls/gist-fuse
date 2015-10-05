@@ -1,4 +1,4 @@
 # Gist-Fuse
 
-Expose Github Gists over a filesystem using FUSE!
+Work in progress utility to expose Github Gists over a filesystem using FUSE!
 

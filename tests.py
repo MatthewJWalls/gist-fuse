@@ -4,7 +4,7 @@ import unittest
 import config
 from github import gist
 
-class IntegrationTests(unittest.TestCase):
+class APIIntegrationTests(unittest.TestCase):
 
     """ Integration tests that exercises the system """
     
